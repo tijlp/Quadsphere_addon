@@ -8,7 +8,7 @@ Then all you need is a cast modifier set to factor 1
 
 I usually do this with hardOps/spherecast but it's an extra step,
 and this shape should really be inside Blender by default!  
-The extra objects addon adds a "round cube" but it doesn't do the same...
+The extra objects addon has a "round cube" but it doesn't do the same...
 
 <3
 
