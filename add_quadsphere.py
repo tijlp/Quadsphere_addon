@@ -24,7 +24,7 @@ class QS_OP_add_quadsphere(bpy.types.Operator):
         name = "Size",
         description = "Size",
         default = 2.0,
-        min = 0.1,
+        min = 0.01,
         soft_max = 10
     )
  
