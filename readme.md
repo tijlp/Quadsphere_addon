@@ -13,7 +13,7 @@ The extra objects addon has a "round cube" but it doesn't do the same...
 <3
 
 v0.1.0:  
-Currently the only (redo)options are to change the size and apply the modifiers.
+Currently the only options after adding the mesh are to change the size and apply the modifiers.
 
 ## Download the addon:
 
