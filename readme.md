@@ -21,7 +21,7 @@ Go to the green button that says "Code" and download the zip
 ## Download the addon:
 
 ```
-Install like any other addon > F4 > Preferences > Addons > Install the zip file
+Install like any other addon: F4 > Preferences > Addons > Install the zip file
 
 ```
 
