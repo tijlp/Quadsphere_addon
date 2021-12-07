@@ -8,7 +8,10 @@ Then all you need is a cast modifier set to factor 1
 
 I usually do this with hardOps/spherecast but it's an extra step,
 and this shape should really be inside Blender by default!  
-The extra objects addon has a "round cube" but it doesn't do the same...
+EDIT: You can do the same with 'Extra Objects" addon that comes with Blender,
+use the Round Cube and set the radius to 1.00. Doesn't come shaded smooth though
+so it's still an extra step but with Round Cube you can change the subdiv levels
+on the fly. 
 
 <3
 

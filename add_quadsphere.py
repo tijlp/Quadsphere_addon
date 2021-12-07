@@ -52,9 +52,11 @@ class QS_OP_add_quadsphere(bpy.types.Operator):
         bpy.ops.object.modifier_add(type='CAST')
         context.active_object.modifiers["Cast"].factor = 1
         bpy.ops.object.shade_smooth()
-
-        # if self.show_wire:
         
+        # set render subdiv levels
+        subdiv_levels = context.active_object.modifiers["Subdivision"].levels         
+        context.active_object.modifiers["Subdivision"].render_levels = subdiv_levels
+
         if self.apply_modifiers:
             bpy.ops.object.modifier_apply(modifier="Subdivision")
             bpy.ops.object.modifier_apply(modifier="Cast")
