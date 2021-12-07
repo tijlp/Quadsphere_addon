@@ -1,6 +1,5 @@
 import bpy
 from bpy.props import BoolProperty, FloatProperty, IntProperty
-from bpy.types import View3DOverlay
 
 bl_info = {
     "name": "Quadsphere",
@@ -24,7 +23,6 @@ class QS_OP_add_quadsphere(bpy.types.Operator):
     size: FloatProperty(
         name = "Size",
         description = "Size",
-        # default=(1.0, 1.0, 1.0),
         default = 2.0,
         min = 0.1,
         soft_max = 10
