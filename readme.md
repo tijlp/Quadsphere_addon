@@ -16,7 +16,7 @@ on the fly).
 
 <3
 v0.2.0:
-Added option to change subdivision levels
+Added option to change subdivision levels  
 v0.1.0:  
 Currently the only options after adding the mesh are to change the size and apply the modifiers.
 
