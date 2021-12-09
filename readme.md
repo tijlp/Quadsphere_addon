@@ -15,7 +15,9 @@ Use the Round Cube and set the radius to 1.00 (mine was set wrong).
 Doesn't come shaded smooth though so it's still an extra step!
 
 <3  
-v0.2.0:
+v0.3.0:  
+Added menu that let's you quickly set a viewport material
+v0.2.0:  
 Added option to change subdivision levels  
 v0.1.0:  
 Currently the only options after adding the mesh are to change the size and apply the modifiers.
